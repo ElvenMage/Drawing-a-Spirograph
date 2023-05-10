@@ -1,4 +1,4 @@
-Photosensitive Epilepsy WARNING!
+> **Warning** Photosensitive Epilepsy WARNING!
 
 
 
